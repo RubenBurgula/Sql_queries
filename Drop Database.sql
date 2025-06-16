@@ -1,0 +1,1 @@
+Drop DATABASE my_database
