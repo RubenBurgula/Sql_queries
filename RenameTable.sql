@@ -1,0 +1,1 @@
+RENAME TABLE Place TO Location;
