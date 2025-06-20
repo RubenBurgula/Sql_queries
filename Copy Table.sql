@@ -1,0 +1,1 @@
+CREATE TABLE location_copy LIKE location;
